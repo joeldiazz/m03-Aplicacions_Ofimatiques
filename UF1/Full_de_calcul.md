@@ -14,6 +14,8 @@ __**Full de cálcul**__
 
 **F11** --> pantalla completa.
 
+------------------------------------------------------------------------------------------------------------------------------------------ 
+
 **Mitja ponderada** --> Es una mitjana amb diferents pesos per cada dada.
 
 **$** --> Serveix per inmobilitzar una dada al arrosegar
