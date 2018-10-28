@@ -13,6 +13,8 @@
 
 **4.Safata d'entrada** --> Els temes poden assignar-se a altres membres i tractar-se com tasques que es poden resoldre o reassignar. Hi ha opcions addicionals per controlar qui pot assignar i rebre tasques.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 *Permisos basics:*
 
 Veure temas:
