@@ -48,7 +48,7 @@ __**Full de cálcul**__
 
 **Suma** --> =SUM per sumar rangs o valors.
 
-**Recarrec* --> =preu+(recarrec)
+**Recarrec** --> =preu+(recarrec)
 
 **Descompte** --> =preu-(preu x descompte)
 
