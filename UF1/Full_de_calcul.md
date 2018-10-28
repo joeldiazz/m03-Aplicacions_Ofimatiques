@@ -1,5 +1,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------ 
-                                                        __**Full de cálcul**__
+
+__**Full de cálcul**__
+
 **Ctrl + v** --> copiar dades.
 **Ctrl + c** --> enganxar dades.
 **Ctrl + x** --> tallar dades.
@@ -8,7 +10,7 @@
 **F11** --> pantalla completa.
 
 **Mitja ponderada** --> Es una mitjana amb diferents pesos per cada dada.
-**$** --> Serveix per inmobilitzar una dada al arrosegar.
+**$** --> Serveix per inmobilitzar una dada al arrosegar
 **Count** -> Formula per contar dades numeriques
 **Counta** --> Formula per contar totes les dades.
 **Dateif** --> Calcula la diferencia entre dos datas en hores, mesos, anys o dies.
@@ -27,3 +29,5 @@
 **Recarrec* --> =preu+(recarrec)
 **Descompte** --> =preu-(preu x descompte)
 **Preu sense IVA** --> =preu/1.21
+
+------------------------------------------------------------------------------------------------------------------------------------------ 
