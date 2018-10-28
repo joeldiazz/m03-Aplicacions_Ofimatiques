@@ -1,19 +1,29 @@
 ------------------------------------------------------------------------------------------------------------------------------------------ 
                                                         __**Full de cálcul**__
-**Mitja ponderada** --> a diferencia de la mitjana aritmetica, aquesta cada nota té un pes o valor diferent.
+**Ctrl + v** --> copiar dades.
+**Ctrl + c** --> enganxar dades.
+**Ctrl + x** --> tallar dades.
+**Ctrl + z** --> anar cap enrere.
+**Ctrl + y** --> anar cap endevant.
+**F11** --> pantalla completa.
 
-**Obligatori!** --> ús dels parentasis (per la prioritat d'operacions)
-
-**$** --> serveix per inmobilitzar de forma que si arrosegues una formula a una altre cel·la no s'esborri o canvii.
-
-**Count** -> Formula per contar numeros
-
-**Counta** --> Formula per contar numeros i lletres.
-
-**Dateif** --> Molt útil per si per exemple hem de calcular l'edat d'algú ( en anys, mesos, dies,..)
-
-**Average** --> Mitja aritmètica
-
-**Today ()** --> Data d'avui
-
-**Now ()** --> Hora i data actual (més específica que la de today)
+**Mitja ponderada** --> Es una mitjana amb diferents pesos per cada dada.
+**$** --> Serveix per inmobilitzar una dada al arrosegar.
+**Count** -> Formula per contar dades numeriques
+**Counta** --> Formula per contar totes les dades.
+**Dateif** --> Calcula la diferencia entre dos datas en hores, mesos, anys o dies.
+**if** --> Si es cumpleix la condició surtira una cosa y si no es cumpleix un altre.
+**Average** --> Mitjana aritmètica.
+**Today ()** --> Data d'avui.
+**Now ()** --> Hora i data actual.
+**Inmobilitza files i columnes** --> Inmobilitza columnes o files quan fas scroll.
+**Format condicional** --> Serveix per resaltar informació.
+**Amagar cel·les** (click dret)
+**Autofiltre** --> per filtrar dades segons condicions y de A-Z y de Z-A.
+**Gràfica** --> Per insertar un grafica a partir d'una taula de dades.
+**Ajustar text** --> ajustat, desbordat, retallat.
+**Alineació** --> horitzontal (dreta, esquerra i al centre) vertical (adalt, abaix i en mig)
+**Suma** --> =SUM per sumar rangs o valors.
+**Recarrec* --> =preu+(recarrec)
+**Descompte** --> =preu-(preu x descompte)
+**Preu sense IVA** --> =preu/1.21
