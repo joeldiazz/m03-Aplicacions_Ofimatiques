@@ -20,6 +20,7 @@
 ·Administradors del grup
 ·Tots els membres del grup
 ·Cualsevol usuari
+
 **Publicar**
 
 ·Propietaris del grup.
