@@ -12,18 +12,20 @@
 **3.Foro Preguntes i Respostes** --> És casi el mateix que els foros web, amb la diferència que està més centrat en preguntas i respostes.
 
 **4.Safata d'entrada** --> cada grup té una safata d'entrada en comú, en la que, per exemple, veus si aquests participants han fet el treball o no. 
+
 *Permisos basics:*
+
 **Veure temas**
-       -Administradors del grup
-       -Tots els membres del grup
-       -Cualsevol usuari
+       ·Administradors del grup
+       ·Tots els membres del grup
+       ·Cualsevol usuari
 **Publicar**
-       -Propietaris del grup
-       -Administradors del grup
-       -Tots els membres del grup
-       -Cualsevol usuari de la red
+       ·Propietaris del grup
+       ·Administradors del grup
+       ·Tots els membres del grup
+       ·Cualsevol usuari de la red
 **Unirse al grup**
-       -Cualsevol usuari de la xarxa
-       -Sol usuaris invitats
-       -Tots els usuaris poden solucionar-los
+       ·Cualsevol usuari de la xarxa
+       ·Sol usuaris invitats
+       ·Tots els usuaris poden solucionar-los
 ------------------------------------------------------------------------------------------------------------------------------------------
