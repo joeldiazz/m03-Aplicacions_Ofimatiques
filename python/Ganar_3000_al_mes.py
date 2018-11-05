@@ -1,3 +1,6 @@
+## Python 3.6 ##
+**Como ganar 3000€ al mes netos?**
+    
 #Coding: utf-8
 M01= int(input("Qué nota has sacado en M01?"))
 M02= int(input("Qué nota has sacado en M02?"))
