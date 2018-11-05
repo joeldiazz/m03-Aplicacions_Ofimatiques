@@ -1,5 +1,5 @@
 ## Python 3.6 ##
-**Practica 2: Jubilats, sexe i rosses**
+"""Practica 2: Jubilats, sexe i rosses"""
 
 jubilat = str (input("Ets jubilat? Si o no"))
 sexe = str(input("Ets home o dona? H o D"))
