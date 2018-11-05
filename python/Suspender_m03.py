@@ -1,5 +1,5 @@
 ## Python 3.6 ##
-**Suspender m03**
+"""Suspender m03"""
 
 pelo = input("de que color es tu pelo?")
 ojos = input("de que color son tus ojos?")
