@@ -9,13 +9,13 @@ M04= int(input("Qué nota has sacado en M04?"))
 M05= int(input("Qué nota has sacado en M05?"))
 Loteria= input("Has ganado la loteria? Si o No")
 Casarse= input("Te casas con un(a) milloneti?(de 80 años con problemas del corazón")
-if (M01 >= 9 and M02 >= 10 and M03 >= 8 and (M05 <= 8 and M05 >= 6)):
-    print("Ganas 3.000€ netos al mes! Tu media ponderada es superior al 8.")
+if(Loteria == "Si"):
+     print("Tienes mucho dinero! No necesitas trabajar.")
 else:
-    if(Loteria == "Si"):
-        print("Tienes mucho dinero! No necesitas trabajar.")
+    if(Casarse == "Si"):
+        print("Vives del cuento, no necesitas trabajar")
     else:
-        if(Casarse == "Si"):
-            print("No necesitas trabajar, tienes mucho dinero.")
+        if (M01 >= 9 and M02 >= 10 and M03 >= 8 and (M05 <= 8 and M05 >= 6)):
+            print("Ganas 3.000€ netos al mes!")
         else:
             print("Moriras pobre.")
