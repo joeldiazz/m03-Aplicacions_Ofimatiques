@@ -1,5 +1,5 @@
 ## Python 3.6 ##
-"""Como ganar 3000€ al mes netos?"""
+"""Cómo ganar 3000€ al mes netos?"""
     
 #Coding: utf-8
 M01= int(input("Qué nota has sacado en M01?"))
