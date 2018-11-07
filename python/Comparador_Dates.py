@@ -51,9 +51,13 @@ else:
                     if(neg_fut == 0):
                         print("Desde el año ",Futuro," ha pasado 1 año")
                     else:
-                        print("Desde el año ",Futuro," han pasado ",neg_fut," años")
+                        if(Actual <= 0 and Futuro <= 0):
+                            print("Desde el ",Futuro," han pasado ",res_fut," años")
+                        else:
+                            print("Desde el año ",Futuro," han pasado ",neg_fut," años")
                 else:
                     print("Desde el ",Futuro," han pasado ",res_fut," años")
             else:
                 if(Actual == Futuro):
                     print("Son el mismo año!")
+
