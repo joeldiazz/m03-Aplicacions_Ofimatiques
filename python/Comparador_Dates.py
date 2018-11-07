@@ -68,3 +68,4 @@ else:
                              ##Python 3.6##
                     """Comparador d'anys amb rangs"""
     
+    
