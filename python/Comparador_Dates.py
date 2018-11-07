@@ -26,18 +26,21 @@ else:
 #Coding: utf-8
 Actual= int(input("Indique el año actual: "))
 Futuro= int(input("Pon un año cualquiera: "))
-if(Actual == 0 or Actual == -0):
+if(Actual == 0):
     print("El año actual no puede ser 0")
 else:
-    if(Futuro == 0 or Futuro == -0):
+    if(Futuro == 0):
         print("El año cualquiera no puede ser 0")
     else:
         if(Actual < Futuro):
             res_act=(Futuro - Actual)
             if(res_act <= 0):
-                neg_act= (res_act + 1)
-                if(neg_act == 0):
-                    print("Para llegar al año ",Futuro," falta 1 año")
+                if(Actual < 0 and Future < 0):
+                    print("Para llegar al año ",Futuro," faltan ",res_act," años")
+                else:
+                    neg_act= (res_act + 1)
+                    if(neg_act == 0):
+                        print("Para llegar al año ",Futuro," falta 1 año")
             else:
                 print("Para llegar al año ",Futuro," faltan ",res_act," años")
         else:
