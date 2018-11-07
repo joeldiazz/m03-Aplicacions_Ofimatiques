@@ -18,4 +18,9 @@ else:
         if (M01 >= 9 and M02 >= 10 and M03 >= 8 and (M05 <= 8 and M05 >= 6)):
             print("Ganas 3.000€ netos al mes!")
         else:
-            print("Moriras pobre.")
+            Ponderada=((M01*0.3)+(M02*0.4)+(M03*0.25)+(M05*0.05))
+            if(Ponderada >= 8)
+                print("Ganas 3.000€ netos al mes!")
+            else:
+                print("Morirás pobre.")
+            
