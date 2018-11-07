@@ -67,7 +67,9 @@ else:
 **************************************************************************************************
                              ##Python 3.6##
                     """Comparador d'anys amb funcions"""
-    "Uso: tiempo(año actual, año cualquiera)"
+    
+    ###Para utilizar este codigo debes poner [anyo(fecha_actual,fecha_cualquiera)] substituyendo fecha_actual y fecha_cualquiera por dos fechas.##
+    
 #Coding: utf-8
 def anyo(actual,cualquiera):
     "Uso: tiempo(año actual, año cualquiera)"
