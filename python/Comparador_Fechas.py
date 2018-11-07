@@ -68,7 +68,7 @@ else:
                              ##Python 3.6##
                     """Comparador d'anys amb funcions"""
     
-    """Para utilizar este codigo debes poner [anyo(fecha_actual,fecha_cualquiera)] 
+    """Para utilizar este codigo debes poner: anyo(fecha_actual,fecha_cualquiera) 
     substituyendo fecha_actual y fecha_cualquiera por dos fechas."""
     
 #Coding: utf-8
