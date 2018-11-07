@@ -47,7 +47,7 @@ else:
             if(Actual > Futuro):
                 res_fut=(Actual - Futuro)
                 if(Actual <= 0 or Futuro <=0):
-                    neg_fut= (res_fut + 1)
+                    neg_fut= (res_fut - 1)
                     if(neg_fut == 0):
                         print("Desde el año ",Futuro," ha pasado 1 año")
                     else:
@@ -60,4 +60,3 @@ else:
             else:
                 if(Actual == Futuro):
                     print("Son el mismo año!")
-
