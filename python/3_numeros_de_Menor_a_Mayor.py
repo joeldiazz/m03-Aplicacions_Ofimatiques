@@ -17,3 +17,12 @@ elif(num2 >= num1 and num1 >= num3):
 elif(num2 >= num3 and num3 >= num1):
     print("",num1,",",num3,",",num2,"")
 print("(Ordenats de menor a mayor)")
+
+***********************************************************
+                      ##Python 3.6##
+         """3 Numeros ordenados de menor a mayor sin IF"""
+##Creditos Ian##
+#coding:utf-8
+numeros=list(eval(input("Posa tres numeros separats per comes: ")))
+numeros.sort()
+print(numeros)
