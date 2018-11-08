@@ -1,5 +1,5 @@
                         ##Python 3.6##
-             """Comparador d'anys sense negatius"""
+             """Comparador d'anys amb 0"""
 #Coding: utf-8
 Actual= int(input("Indique el año actual: "))
 Futuro= int(input("Pon un año cualquiera: "))
@@ -22,7 +22,7 @@ else:
                     
 **************************************************************************************************
                              ##Python 3.6##
-                    """Comparador d'anys amb negatius sense errors"""
+                    """Comparador d'anys amb negatius sense 0"""
 #Coding: utf-8
 Actual= int(input("Indique el año actual: "))
 Futuro= int(input("Pon un año cualquiera: "))
@@ -73,7 +73,6 @@ else:
     
 #Coding: utf-8
 def anyo(actual,cualquiera):
-    "Uso: tiempo(año actual, año cualquiera)"
     actual2=int(actual)
     cualquiera2=int(cualquiera)
     if((actual2 == 0 and cualquiera2 == 0)or(actual2 == 0)or(cualquiera2 ==0)):
@@ -85,18 +84,17 @@ def anyo(actual,cualquiera):
             print("Para llegar al año",cualquiera,"al",actual2,"faltan "+str(actual2 - cualquiera2)+" años")
         else:
             print("Desde el año",cualquiera,"al",actual2,"han pasado "+str(cualquiera2 - actual2)+" años")
-    elif(actual2<0):
+    elif(actual2 < 0):
         if(actual2 > cualquiera2):
             print("Para llegar al año",cualquiera,"al",actual2,"faltan "+str(actual2 - cualquiera2 - 1)+" años")
         else:
             print("Desde el",cualquiera,"al",actual2,"han pasado "+str(cualquiera2 - actual2 - 1)+" años")
     elif(cualquiera2<0):
         if(actual2 > cualquiera2):
-            print("Para llegar al año",cualquiera,"al",actual2,"faltan "+str(actual2 - cualquiera2)+" años")
+            print("Para llegar al año",cualquiera,"al",actual2,"faltan "+str(actual2 - cualquiera2 -1)+" años")
         else:
             print("Desde el",cualquiera,"al",actual2,"han pasado "+str(cualquiera2 - actual2 - 1)+" años")
     elif(actual2 > cualquiera2):
         print("Para llegar al año",cualquiera,"al",actual2,"faltan "+str(actual2 - cualquiera2)+" años")
     else:
         print("Desde el año",cualquiera,"al",actual2,"han pasado "+str(cualquiera2 - actual2)+" años")
-    
