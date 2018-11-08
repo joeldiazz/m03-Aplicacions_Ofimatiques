@@ -22,7 +22,7 @@ print("(Ordenats de menor a mayor)")
                       ##Python 3.6##
          """3 Numeros ordenados de menor a mayor sin IF"""
 ##Creditos Ian##
-#coding:utf-8
+#coding:utf-8##
 numeros=list(eval(input("Posa tres numeros separats per comes: ")))
 numeros.sort()
 print(numeros)
