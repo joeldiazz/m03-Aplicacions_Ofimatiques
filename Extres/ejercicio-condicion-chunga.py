@@ -27,6 +27,7 @@ else:
             
 #Python 3.6#
 """Números pares e impares un solo if"""
+#Coding: Utf-8
 numero = int(input("Pon un número: "))
 if((numero <0 )or(numero %2 == 0)or(numero >= -10) and (numero <=40)):
     print:("Este numero esta entre -10 y 40 o es negativo o es un numero par")
