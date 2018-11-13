@@ -1,3 +1,4 @@
+
 #Python 3.6#
 """Calculo de areas"""
 #Coding: Utf-8
@@ -12,4 +13,4 @@ elif(figura == "C"):
     areac = (3.14*(radio*radio))
     print("Un circulo de radio",radio,"tiene un area de",areac,"")
 else:
-    print("Has de posar T o C.")
+    print("Tienes que poner T o C")
