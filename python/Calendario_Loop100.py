@@ -20,7 +20,7 @@ if(any == "Si"):
         input()
         for dia in range(300,365):
             print(dia+1)
-elif(any == "No")
+elif(any == "No"):
     for dia in range(0,100):
         print(dia+1)
     if(dia%100==100-1):       
